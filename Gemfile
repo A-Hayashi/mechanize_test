@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'mechanize'
+gem 'guard'
+gem 'guard-shell'
+gem 'bundler'

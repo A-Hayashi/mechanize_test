@@ -1,7 +1,6 @@
 # -*- encoding: Shift_JIS -*-
-require 'rubygems'
-require 'mechanize'
-require 'pp'
+require 'bundler'
+Bundler.require
 
 DEL_PASS = "2357"
 
